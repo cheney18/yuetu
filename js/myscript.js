@@ -6,7 +6,7 @@ $(document).ready(function(){
 	$("<option />", {
 	   "selected": "selected",
 	   "value"   : "",
-	   "text"    : "Please choose page"
+	   "text"    : "请选择页面"
 	}).appendTo("nav#main_menu select");	
 	
 	// Populate dropdowns with the first menu items

@@ -408,6 +408,7 @@ h2.upper {
 	padding:0;
 	margin:0;
 	list-style:none;
+    display:none;
 }
 .block li, #footer li {
 	padding:0;
@@ -456,7 +457,7 @@ h2.upper {
 
 #footer {
 	background:#FFF;
-	padding-top:44px;
+	/* padding-top:44px; */
 	border-top:4px #313131 solid;
 	color:#1e1e1e;
 	line-height:16px;	
@@ -559,15 +560,16 @@ ul.tweets li {
 
 .footer_bottom {
 	background:#1e1e1e;
-	margin-top:20px;
+	/* margin-top:20px; */
 	padding:23px 0 26px 0;
 }
-.copyright {color:#444444;
+.copyright {color:#E3E3E3;
 }
 
 .foot_right_block {
 	text-align:right;
 	padding-top:15px;
+    display:none;
 }
 .foot_right_block .fright {margin-left:20px;
 }
@@ -679,7 +681,7 @@ ul.tweets li {
   font-weight:400;
   font-size:19px;
 }
-.profile {text-align:center;
+.profile {text-align:left;
 }
 .profile_title {
 	font-size: 14px;
