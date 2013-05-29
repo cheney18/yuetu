@@ -10,7 +10,7 @@ body { overflow-x:hidden;
 	font-weight:800; /*Extra-Bold*/	
 }
 .header {
-	padding:36px 0 21px 0;
+	padding:36px 0 1px 0;
 	background:#fff;
 	border-top:5px #d00b01 solid;
 }
@@ -408,7 +408,7 @@ h2.upper {
 	padding:0;
 	margin:0;
 	list-style:none;
-   
+   /*  updated */
 }
 .block li, #footer li {
 	padding:0;
@@ -662,10 +662,10 @@ ul.tweets li {
 }
 
 .breadcrumb {
-  padding: 19px 0;
+  padding: 15px 0;
   margin: 0 0 20px 0;
   list-style: none;
-  background:#d1d1d1;
+  background:#A7CEEB;
   color:#d00b01;
   font-family: 'Open Sans', sans-serif;
   font-weight:400;
